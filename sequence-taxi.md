@@ -1,3 +1,8 @@
+```mermaid
+sequenceDiagram
+    title: Заказ такси
+    participant Клиент
+
 sequenceDiagram
     title: Заказ такси
     participant Клиент
